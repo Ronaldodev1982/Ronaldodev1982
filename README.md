@@ -1,6 +1,6 @@
 - Olá Pessoal, eu sou o Ronaldo Oliveira 😊
 
-- 🔭 Hoje trabalho como motorista de aplicativo
+- 🔭 Hoje estou como motorista de aplicativo
 - 🌱 Sou estudante de ADS focado em me especilizar na Linguagem Python
 - 😄 Pronouns: ele/dele
 
